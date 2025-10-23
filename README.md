@@ -15,7 +15,7 @@ Currently (full-time) focused on (obviously) private ML optimization projects at
 
 | 🎁 Project | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull Requests |
 |-------------|---------|----------|-----------|------------------|
-| [MNIST on K8s](https://github.com/matthijskeep/mnist-on-k8s) | ![Stars](https://img.shields.io/github/stars/matthijskeep/mnist-on-k8s?style=flat-square) | ![Forks](https://img.shields.io/github/forks/matthijskeep/mnist-on-k8s?style=flat-square) | ![Issues](https://img.shields.io/github/issues/matthijskeep/mnist-on-k8s?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/matthijskeep/mnist-on-k8s?style=flat-square)
+| [MNIST on Kubernetes](https://github.com/matthijskeep/mnist-on-k8s) | ![Stars](https://img.shields.io/github/stars/matthijskeep/mnist-on-k8s?style=flat-square) | ![Forks](https://img.shields.io/github/forks/matthijskeep/mnist-on-k8s?style=flat-square) | ![Issues](https://img.shields.io/github/issues/matthijskeep/mnist-on-k8s?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/matthijskeep/mnist-on-k8s?style=flat-square)
 <!-- | [PyTorch Optimization Repo](https://github.com/matthijskeep/pytorch-optim) | ![Stars](https://img.shields.io/github/stars/matthijskeep/pytorch-optim?style=flat-square&) | ![Forks](https://img.shields.io/github/forks/matthijskeep/pytorch-optim?style=flat-square&) | ![Issues](https://img.shields.io/github/issues/matthijskeep/pytorch-optim?style=flat-square&) | ![PRs](https://img.shields.io/github/issues-pr/matthijskeep/pytorch-optim?style=flat-square) -->
 
 ## Where to find me
